@@ -1,3 +1,6 @@
+# This code uses WRF-Python on Cheyenne to generate a visual of precipitable water simulated with WRF during the event Hurricane Matthew. 
+
+
 from netCDF4 import Dataset
 import matplotlib.pyplot as plt
 from matplotlib.cm import get_cmap
