@@ -55,5 +55,5 @@ plt.show()
 
 plt.savefig("precipitablewater.png")
 
-![precipitablewater](https://user-images.githubusercontent.com/46833188/114322679-868a3d80-9aef-11eb-80ee-e04e5c2d117b.png)
+
 
